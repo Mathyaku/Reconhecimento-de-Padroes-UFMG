@@ -1,6 +1,6 @@
 # Reconhecimento de Padrões UFMG
 
-Algoritmos de classificação relizados durante a disciplina de Reconhecimento de Padrões na Univerdade Federal de Minas Gerais, curso ministrado pelo professor Antônio de Pádua Braga.
+Algoritmos de classificação realizados durante a disciplina de Reconhecimento de Padrões na Univerdade Federal de Minas Gerais, curso ministrado pelo professor Antônio de Pádua Braga.
 
 * Classificador Binário de Bayes
 
